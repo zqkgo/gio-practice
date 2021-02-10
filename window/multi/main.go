@@ -23,7 +23,7 @@ func main() {
 			closed <- struct{}{}
 			time.Sleep(100 * time.Millisecond)
 		}
-		os.Exit(1)
+		os.Exit(0)
 	}()
 	app.Main()
 }
