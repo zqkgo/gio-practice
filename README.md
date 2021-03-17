@@ -1,6 +1,14 @@
 
 Practice [Gio](https://gioui.org/)
 
+## txtmirror
+
+```
+go run github.com/zqkgo/gio-practice/txtmirror
+```
+
+![](./screenshots/txtmirror.gif)
+
 ## arrowmove
 
 ```
