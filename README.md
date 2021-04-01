@@ -1,9 +1,21 @@
 
 Practice [Gio](https://gioui.org/)
 
+## changetextsize
+
+```
+mkdir my_project; cd my_project
+go mod init my_project
+go run github.com/zqkgo/gio-practice/changetextsize
+```
+
+![](./screenshots/changetextsize.gif)
+
 ## changebtncolor
 
 ```
+mkdir my_project; cd my_project
+go mod init my_project
 go run github.com/zqkgo/gio-practice/changebtncolor
 ```
 
@@ -12,6 +24,8 @@ go run github.com/zqkgo/gio-practice/changebtncolor
 ## listbuttons
 
 ```
+mkdir my_project; cd my_project
+go mod init my_project
 go run github.com/zqkgo/gio-practice/listbuttons
 ```
 
@@ -20,6 +34,8 @@ go run github.com/zqkgo/gio-practice/listbuttons
 ## txtmirror
 
 ```
+mkdir my_project; cd my_project
+go mod init my_project
 go run github.com/zqkgo/gio-practice/txtmirror
 ```
 
